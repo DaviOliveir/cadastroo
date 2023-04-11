@@ -1,0 +1,215 @@
+
+
+body{ position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    
+    background: url(750482.png);
+    
+}
+#No{
+    position: absolute;
+    width: 169px;
+    height: 55px;
+    left: 130px;
+    top: 130px;
+    
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    
+    color: #FFFFFF;
+
+
+}
+
+#Completo{
+    position: absolute;
+    width: 253px;
+    height: 60px;
+    left: 119px;
+    top: 220px;
+    
+    font-family: 'arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+  
+    
+    
+    color: #FFFFFF;
+    
+
+
+}
+
+#Dat{
+    position: absolute;
+width: 453px;
+height: 60px;
+left: 116px;
+top: 320px;
+
+font-family: 'arial';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 60px;
+
+
+color: #FFFFFF;
+
+
+
+}
+
+#ema{
+
+    position: absolute;
+width: 129px;
+height: 60px;
+left: 116px;
+top: 420px;
+
+font-family: 'arial';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 60px;
+
+
+
+color: #FFFFFF;
+
+
+}
+
+#numero{
+    position: absolute;
+width: 441px;
+height: 60px;
+left: 119px;
+top: 520px;
+
+font-family: 'arial';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 60px;
+
+
+
+color: #FFFFFF;
+
+
+
+}
+
+#nm{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 300.88px;
+    height: 30px;
+    left: 119.25px;
+    top: 187px;
+    
+    background: #A8C7F5;
+    border: 1px solid #000000;
+    border-radius: 9px;
+    transform: rotate(0.33deg);
+
+}
+
+#nmcom{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 300.88px;
+height: 30px;
+left: 119.25px;
+top: 275px;
+
+background: #A8C7F5;
+border: 1px solid #000000;
+border-radius: 9px;
+transform: rotate(0.33deg);
+
+
+}
+
+#data{
+
+    box-sizing: border-box;
+
+position: absolute;
+width: 300.88px;
+height: 30px;
+left: 119.25px;
+top: 375px;
+
+background: #A8C7F5;
+border: 1px solid #000000;
+border-radius: 9px;
+transform: rotate(0.33deg);
+
+
+
+}
+
+#email{
+    box-sizing: border-box;
+
+position: absolute;
+width: 300.88px;
+height: 30px;
+left: 119.25px;
+top: 480px;
+
+background: #A8C7F5;
+border: 1px solid #000000;
+border-radius: 9px;
+transform: rotate(0.33deg);
+
+
+    
+}
+
+#numer{
+    box-sizing: border-box;
+
+position: absolute;
+width: 300.88px;
+height: 30px;
+left: 119.25px;
+top: 580px;
+
+background: #A8C7F5;
+border: 1px solid #000000;
+border-radius: 9px;
+transform: rotate(0.33deg);
+
+
+    
+}
+
+#cadastrar{
+
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 50px;
+left: 320px;
+top: 650px;
+
+background: #B4FFF6;
+border: 1px solid #0A0909;
+border-radius: 6px;
+}
